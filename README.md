@@ -11,7 +11,10 @@ and 160 px.
 
 For now, i will use 160px.
  **use TF_VGG-R50_Imagenette.ipynb for this task**
- #AML2
+ ---
+ 
+ 
+ # AML2
  
 - The assignment is due by the end of the day on Thursday, March 2.
 - Objective:Implement black-box evasion attacks against deep learning-based classification models.
